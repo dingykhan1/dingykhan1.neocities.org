@@ -97,6 +97,10 @@ body {
   background-color:var(--div-bg-color);
   margin-bottom: 10px;
 }
+
+.updates object {
+  height:180px;
+}
 .todo{
   border-style:solid;
   border-width:1px;
@@ -125,6 +129,7 @@ body {
 object{
   width:100%;
 }
+
 
 iframe {
     width:100%;
